@@ -1,0 +1,9 @@
+{
+  "appId": "io.github.alexandrmel.memoryapp",
+  "appName": "Memories_App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {},
+  "linuxAndroidStudioPath": "/snap/bin/android-studio"
+}
